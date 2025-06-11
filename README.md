@@ -9,5 +9,8 @@
 
 [3. Паттерны покупок](https://nbviewer.org/github/artem-ilienkov/markerplace/blob/main/sales_patterns.ipynb)
 
-[4. Поддержка продажи PASS](https://github.com/artem-ilienkov/markerplace/blob/main/pass_economic_sales_v_2.ipynb)
+[4. Поддержка продажи PASS](https://nbviewer.org/github/artem-ilienkov/markerplace/blob/main/pass_economic_sales_v_2.ipynb)
+
+[5. Граница бронирования](https://nbviewer.org/github/artem-ilienkov/markerplace/blob/main/days_before_start.ipynb)
+
 
