@@ -13,6 +13,6 @@
 
 [5. Граница бронирования](https://nbviewer.org/github/artem-ilienkov/markerplace/blob/main/days_before_start.ipynb)
 
-[6. Вклад критериев в описании мероприятия в бронирование (регрессия)](https://nbviewer.org/github/artem-ilienkov/markerplace/blob/main/days_before_start.ipynb)
+[6. Вклад критериев в описании мероприятия в бронирование (регрессия)](https://nbviewer.org/github/artem-ilienkov/markerplace/blob/main/events_2.ipynb)
 
 
